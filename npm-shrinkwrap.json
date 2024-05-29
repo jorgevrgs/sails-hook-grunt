@@ -1,7 +1,7 @@
 {
   "name": "sails-hook-grunt",
-  "version": "4.0.1",
-  "lockfileVersion": 2,
+  "version": "5.0.0",
+  "lockfileVersion": 1,
   "requires": true,
   "packages": {
     "": {
